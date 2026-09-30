@@ -1,2 +1,1 @@
-# C-y-CPP
-C y C++
+# C y C++
